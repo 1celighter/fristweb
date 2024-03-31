@@ -1,14 +1,57 @@
 h1 {
     color: 997BDF;
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
 }
 body {
     background-color: black;
 }
-.text-learning-english{
+h2{
+    color: whitesmoke
+}
+.link-forhtmlcss{
+    font-size: 25px;
     color: 997BDF;
+}
+.link-for-jsframeworks{
+    font-size: 25px;
+    color: 997BDF;
+}
+.paragraph-english-about-english{
+    color: 997BDF;
+    line-height: 1;
+    font-size: 22px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: italic;
     text-align: center;
+}
+.text-learning-english{
+    color: 997BDF; 
+    line-height: 1.5;
+    font-size: 20px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.paragraph-russian-about-english{
+    color: 997BDF;
+    line-height: 1;
+    font-size: 22px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+
 }
 .text-learning-russian {
     color :997BDF;
-    text-align: center;
+    line-height: 1.5;
+    font-size: 18px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+        
 }
