@@ -14,12 +14,15 @@ h2{
 .link-forhtmlcss{
     font-size: 25px;
     color: 997BDF;
+    
 }
 .link-for-jsframeworks{
     font-size: 25px;
     color: 997BDF;
 }
 .paragraph-english-about-english{
+    border-bottom: 3px solid #9DAFE4;
+    border-radius: 5px;
     color: 997BDF;
     line-height: 1;
     font-size: 22px;
@@ -29,12 +32,15 @@ h2{
     text-align: center;
 }
 .text-learning-english{
-    color: 997BDF; 
+    color: 997BDF;   
     line-height: 1.5;
     font-size: 20px;
     font-family: "Ubuntu", sans-serif;
     font-weight: 600;
     font-style: italic;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .paragraph-russian-about-english{
     color: 997BDF;
@@ -47,11 +53,11 @@ h2{
 
 }
 .text-learning-russian {
+    border: 3px solid 997BDF;
     color :997BDF;
     line-height: 1.5;
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Ubuntu", sans-serif;
     font-weight: 600;
     font-style: italic;
-        
 }
