@@ -1,5 +1,6 @@
 h1 {
     color: 997BDF;
+    border-bottom: 2px solid #9DAFE4;
     font-family: "Rubik Scribble", system-ui;
     font-weight: 400;
     font-style: normal;
@@ -8,21 +9,30 @@ h1 {
 body {
     background-color: 0c0f12;
 }
-h2{
-    color: whitesmoke
+a {
+    text-decoration: none;
+    color: #9dafe4;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: italic;
+}
+.html{
+    color: #9DAFE4;
 }
 .link-forhtmlcss{
+    border-left: 2px solid #9DAFE4;
+    font-size: 25px;
+    color: 997BDF;  
+}
+.link-for-jsframeworks{
+    border-left: 2px solid #9DAFE4;
     font-size: 25px;
     color: 997BDF;
     
 }
-.link-for-jsframeworks{
-    font-size: 25px;
-    color: 997BDF;
-}
 .paragraph-english-about-english{
-    border-bottom: 3px solid #9DAFE4;
-    border-radius: 5px;
+    border-left: 3px solid #9DAFE4;
     color: 997BDF;
     line-height: 1;
     font-size: 22px;
@@ -32,6 +42,7 @@ h2{
     text-align: center;
 }
 .text-learning-english{
+    border-top: 3px solid #9DAFE4;
     color: 997BDF;   
     line-height: 1.5;
     font-size: 20px;
@@ -41,7 +52,7 @@ h2{
     margin-top: 50px;
     margin-left: 20px;
     margin-right: 20px;
-}
+}                             
 .paragraph-russian-about-english{
     color: 997BDF;
     line-height: 1;
