@@ -7,7 +7,7 @@ h1 {
     text-align: center;
 }
 body {
-    background-color: #0c0f12;
+    background-color:hsl(225, 57%, 75%);
 }
 a {
     text-decoration: none;
@@ -18,18 +18,18 @@ a {
     font-style: italic;
 }
 .html{
-    color: #9DAFE4;
+    color: #6b7caf;
     font-size: 20px;
     font-family: "Ubuntu", sans-serif;
     font-weight: 600;
 }
 .link-forhtmlcss{
-    border-left: 2px solid #9DAFE4;
+    border-left: 2px solid hsl(225, 57%, 75%);
     font-size: 25px;
-    color: 997BDF;  
+    color:hsl(258, 61%, 68%);  
 }
 .js{
-    color:#9DAFE4;
+    color:hsl(225, 57%, 75%);
     font-size: 20px;
     font-family: "Ubuntu", sans-serif;
     font-weight: 600;

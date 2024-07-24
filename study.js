@@ -1,1 +1,1 @@
-alert("just kidding no more hah and also frist hello world in browser hehheehe")
+alert("леша пидор!!!")
